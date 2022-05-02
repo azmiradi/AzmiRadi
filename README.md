@@ -22,11 +22,11 @@
 <h3 align="left">Examples of Work:</h3>
 <p align="left">
 - DoOrder App [View On Google Play](https://play.google.com/store/apps/details?id=com.bumblebee.doorder)
-<img src="https://play-lh.googleusercontent.com/TQcFeXMc2hOtCSjHZTiLuW2W4o5WGN9oH7_i5P0kanolE20w8eNOTguUPFdUAT9zEQ=s180-rw" width="512" >
+<img src="https://play-lh.googleusercontent.com/TQcFeXMc2hOtCSjHZTiLuW2W4o5WGN9oH7_i5P0kanolE20w8eNOTguUPFdUAT9zEQ=s180-rw" width="150" >
 - Connect4Arab App [View On Google Play](https://play.google.com/store/apps/details?id=azmi.io.connect4arab)
-<img src="https://play-lh.googleusercontent.com/wzONuEwWFapUNvuPFXxQYz0U_KuB9-7Coy2xrsRV0j7RDxWE-Yta6QmNqc5DmG-wE7E=s180-rw" width="512" >
+<img src="https://play-lh.googleusercontent.com/wzONuEwWFapUNvuPFXxQYz0U_KuB9-7Coy2xrsRV0j7RDxWE-Yta6QmNqc5DmG-wE7E=s180-rw" width="150" >
 - Family Alpaqer App [View On Google Play](https://play.google.com/store/apps/details?id=azmithabet.com.family)
-<img src="https://play-lh.googleusercontent.com/kcV5u6TGSsHZib-cxVm9UgMJByaJKemoE_spLGklE7FSp3PpXXt8sylfsVSIPViZr4w=s180-rw" width="512" >
+<img src="https://play-lh.googleusercontent.com/kcV5u6TGSsHZib-cxVm9UgMJByaJKemoE_spLGklE7FSp3PpXXt8sylfsVSIPViZr4w=s180-rw" width="150" >
 </p>
 
 <h3 align="left">Connect with me:</h3>
