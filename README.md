@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azmiradi" alt="azmiradi" /></a> </p>
 
-- 🔭 I’m currently working on [Spire Software Company](https://www.linkedin.com/company/spiresoftware/)
+- 🔭 I’m currently working on [Elaraby group](https://www.elarabygroup.com/)
 
 - 🌱 I’m currently learning **Compose Multiplatform Framework**
 
